@@ -156,6 +156,3 @@ If you have any privacy-related questions, please contact us at:
 
 Thank you for reading this Privacy Policy. We are committed to protecting your rights and information security.
 
----
-
-需要我幫你包成 markdown 格式檔案嗎？
