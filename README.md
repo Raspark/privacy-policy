@@ -33,9 +33,8 @@ This App is built with **Flutter** and leverages the following technologies:
 
 ## 📄 隱私政策 Privacy Policy
 
-詳細的隱私條款請參閱 [Privacy Policy](./index.md)。  
-For detailed terms, please refer to our [Privacy Policy](./index.md).
-
+詳細的隱私條款請參閱 [Privacy Policy](./%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96%20Privacy%20Policy.md)。  
+For detailed terms, please refer to our [Privacy Policy](./%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96%20Privacy%20Policy.md).
 ---
 
 ## 🤝 聯絡我們 Contact
