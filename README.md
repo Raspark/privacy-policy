@@ -9,7 +9,7 @@
 
 ---
 
-## ✨ 核心功能 Features
+## 核心功能 Features
 
 * **極簡介面 Minimalist UI**：採用 300 字重纖細字體與大量留白美學。
 * **本地儲存 Local Storage**：使用 Hive 數據庫實現秒開的收藏與離線閱讀。
@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ 技術棧 Tech Stack
+## 技術棧 Tech Stack
 
 本 App 基於 **Flutter** 框架開發，使用了以下關鍵技術：
 This App is built with **Flutter** and leverages the following technologies:
@@ -32,7 +32,7 @@ This App is built with **Flutter** and leverages the following technologies:
 
 ---
 
-## 🚀 快速開始 Getting Started
+## 快速開始 Getting Started
 
 1. **Clone the repository:**
    ```bash
