@@ -1,7 +1,7 @@
 隱私政策 Privacy Policy
 更新日期 Last Updated: 2026-02-03
 
-歡迎使用「Polify」（以下簡稱「本 App」）。我們重視您的隱私權，承諾依照相關法規，妥善保護您的個人資料。本隱私政策說明我們如何收集、使用、儲存及保護您的資訊。
+歡迎使用「Polify」（以下簡稱「本 App」）。我們重視您的隱私權，木諾依照相關法規，妥善保護您的個人資料。本隱私政策說明我們如何收集、使用、儲存及保護您的資訊。
 
 Welcome to use “Polify” (hereinafter referred to as “this App”). We value your privacy and are committed to protecting your personal data in accordance with applicable laws. This Privacy Policy explains how we collect, use, store, and protect your information.
 
