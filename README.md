@@ -9,7 +9,7 @@
 
 ---
 
-## 核心功能 Features
+## ✨ 核心功能 Features
 
 * **極簡介面 Minimalist UI**：採用 300 字重纖細字體與大量留白美學。
 * **本地儲存 Local Storage**：使用 Hive 數據庫實現秒開的收藏與離線閱讀。
@@ -19,21 +19,34 @@
 
 ---
 
-## 技術棧 Tech Stack
+## 🛠️ 技術棧 Tech Stack
 
 本 App 基於 **Flutter** 框架開發，使用了以下關鍵技術：
 This App is built with **Flutter** and leverages the following technologies:
 
-* **持久化 (Persistence)**: `Hive`, `SharedPreferences`
-* **網路 (Networking)**: `http`, `xml` (RSS Parsing)
-* **分析 (Analytics)**: `Firebase Core`
-* **工具 (Utilities)**: `intl` (Localization), `url_launcher`, `share_plus`
-* **震動回饋 (Feedback)**: `HapticFeedback` (Flutter Services)
+* **Persistence**: `Hive`, `SharedPreferences`
+* **Networking**: `http`, `xml` (RSS Parsing)
+* **Feedback**: `HapticFeedback` (Flutter Services)
+* **Utilities**: `url_launcher`, `share_plus`, `intl`
 
 ---
 
-## 快速開始 Getting Started
+## 📄 隱私政策 Privacy Policy
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/Raspark/polify.git](https://github.com/Raspark/polify.git)
+詳細的隱私條款請參閱 [Privacy Policy](./index.md)。  
+For detailed terms, please refer to our [Privacy Policy](./index.md).
+
+---
+
+## 🤝 聯絡我們 Contact
+
+如果您有任何建議或合作意向，歡迎透過以下方式聯繫：  
+If you have any suggestions or inquiries, please feel free to contact us:
+
+* **Author**: Raspark
+* **Email**: [rationalsparkstudio@gmail.com](mailto:rationalsparkstudio@gmail.com)
+* **Studio**: Rational Spark Studio
+
+---
+
+© 2026 Polify. Built with ❤️ and Flutter.
