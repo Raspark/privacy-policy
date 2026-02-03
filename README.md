@@ -1,2 +1,2 @@
-# privacy-policy
+# Privacy-Policy
 Privacy Policy for Polify
